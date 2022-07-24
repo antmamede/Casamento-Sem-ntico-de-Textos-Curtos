@@ -1,0 +1,15 @@
+animal,fofura,tamanho
+Gatinho,95,15
+Hamster,80,8
+Tarantula,8,3
+Cachorrinho,90,20
+Crocodilo,5,40
+Golfinho,60,45
+Urso Panda,75,40
+Lagosta,2,15
+Capivara,70,30
+Elefante,65,90
+Mosquito,1,1
+Pinguim,97,30
+Cavalo,50,50
+Galinha,25,15
